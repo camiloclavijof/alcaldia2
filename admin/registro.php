@@ -580,7 +580,7 @@ if( isset($_POST['Submit_form'])){
                     <br>
                  
                     <div class="form-check col-md-6">
-                    <label for="pension_adulto_mayor">Pensión Para Discapacitados:</label><br>
+                    <label for="pension_adulto_mayor">Pensión Para Adulto Mayor:</label><br>
                     <input type="radio"  name="pension_adulto_mayor[]" value="SI"/>SI
                     <input type="radio"  name="pension_adulto_mayor[]" value="NO"/>NO
                   </div>

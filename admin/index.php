@@ -25,7 +25,7 @@
                         
                         <center><h4>ALCALDÍA- GUAYABETAL</h4></center>
                         
-                        <center><img src="/sistema/assets/img/logo1,3.jpg"></center>
+                        <center><img src="../assets/img/logo1,3.jpg"></center>
 
     
 <?php include'inc/footer.php';?>
